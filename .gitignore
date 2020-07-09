@@ -18,6 +18,9 @@ fastpli.example.*
 !examples/cube.dat
 !examples/fastpli.dat
 
+# paper
+paper/paper.pdf
+
 # misc
 .nfs*
 .tmux.sh
