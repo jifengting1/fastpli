@@ -56,8 +56,9 @@ elif example == 'customize':
 # solver.obj_min_radius = 0
 # solver.obj_mean_length = 0
 # solver.omp_num_threads = 1
-    OBJ_LENGTH = 800
+    OBJ_LENGTH = 40
     #     OBJ_LENGTH = 40 for paper small model
+    #     OBJ_LENGTH = 800 for larget ONH model
     OBJ_MIN_RAD = 60
     # OBJ_MIN_RAD = 5 for paper small model
     NUM_OMP_THREADS = 10
