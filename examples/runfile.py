@@ -71,7 +71,7 @@ elif example == 'customize':
 # run solver
 solver.toggle_axis(True)
 solver.draw_scene()
-for i in range(50000):
+for i in range(90000):
     solved = solver.step()
 
     # calculate current overlap ratio
